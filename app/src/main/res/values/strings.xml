@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HM</string>
+    <string name="view_events">View Events</string>
+    <string name="add_event">add event</string>
+    <string name="event_name">event name</string>
+    <string name="event_location">event location</string>
+    <string name="no_file_selected">No file selected</string>
+    <string name="select_file">Select File</string>
+    <string name="todo">TODO</string>
+</resources>
